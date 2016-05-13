@@ -232,7 +232,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {117625029,184413821,137264699},--Sudo users
+    sudo_users = {134708484,117303449},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
@@ -287,7 +287,7 @@ function create_config( )
 !br [group_id] [text]
 =======================
 ⚙ادمین 
-@mianco
+@KALILINUXNEW
 ]],
     help_text = [[
 📝 ليست دستورات مدیریتی :
@@ -390,7 +390,7 @@ filterlist
 !help
 ~~~~~~~~~~~~~~~~~~~~~
 🔰ادمین ربات🔰
-@minaco
+@KALILINUXNEW
 
 ]]
     }
